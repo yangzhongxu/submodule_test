@@ -1,3 +1,6 @@
 [submodule "submodule/OkHttp"]
 	path = submodule/OkHttp
 	url = https://github.com/yangzhongxu/OkHttp.git
+[submodule "sub2/myframe"]
+	path = sub2/myframe
+	url = https://github.com/yangzhongxu/myframe.git
